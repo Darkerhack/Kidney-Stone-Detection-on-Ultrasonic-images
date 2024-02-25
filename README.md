@@ -1,9 +1,9 @@
 
 ---
 
-# Kidney Stone Detection on Ultrasonic Images
+# Kidney Stone Detection on Ultrasound Images
 
-This project focuses on detecting kidney stones in ultrasonic images using image processing techniques. Implemented in MATLAB and Python using OpenCV, the project utilizes various computer vision methods to analyze ultrasonic images effectively.
+This project focuses on detecting kidney stones in ultrasound images using image processing techniques. Implemented in MATLAB and Python using OpenCV, the project utilizes various computer vision methods to analyze ultrasound images effectively.
 
 ## Dataset
 
@@ -11,9 +11,9 @@ The dataset used in this project can be found [here](https://www.ultrasound-imag
 
 ## Kidney Stone Detection using MATLAB
 
-This MATLAB-based project aims to detect kidney stones in ultrasonic images. The following steps were implemented:
+This MATLAB-based project aims to detect kidney stones in ultrasound images. The following steps were implemented:
 
-1. **Input Image Visualization**: The input ultrasonic image is loaded and visualized using MATLAB.
+1. **Input Image Visualization**: The input ultrasound image is loaded and visualized using MATLAB.
 
 2. **Image Preprocessing**: The image is preprocessed by converting it to grayscale and applying thresholding techniques to segment the kidney stone.
 
@@ -33,7 +33,7 @@ This MATLAB-based project aims to detect kidney stones in ultrasonic images. The
 
 10. **Analysis**: The extracted region is analyzed to determine if a kidney stone is detected based on its size and shape.
 
-This project provides a comprehensive approach to kidney stone detection in ultrasonic images using MATLAB, facilitating accurate diagnosis and treatment planning.
+This project provides a comprehensive approach to kidney stone detection in ultrasound images using MATLAB, facilitating accurate diagnosis and treatment planning.
 
 ---
 
